@@ -24,4 +24,3 @@ async def setup_hook():
 
 import os
 bot.run(os.getenv("DISCORD_TOKEN"))
-
